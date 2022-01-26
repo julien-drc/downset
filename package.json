@@ -12,6 +12,8 @@
   "dependencies": {
     "dotenv": "^14.3.2",
     "express": "^4.17.2",
-    "nodemon": "^2.0.15"
+    "mongoose": "^6.1.8",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0"
   }
 }
